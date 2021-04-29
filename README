@@ -1,0 +1,39 @@
+# Project 3: Regular Expressions
+
+* Author: Justin Heck, David Marcial
+* Class: CS361 Section 3
+* Semester: Spring 2021
+
+## Overview
+
+
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory(Where you can see the fa and dfa):
+----------------------------------------------
+$ javac -cp ".:./CS361FA.jar" re/REDriver.java
+----------------------------------------------
+
+Run the compiled class with the command:
+----------------------------------------------------------
+$java -cp ".:./CS361FA.jar" re.REDriver ./tests/p3tc1.txt
+----------------------------------------------------------
+
+
+## Discussion
+ 
+
+
+## Testing
+
+For testing we were provided a test folder which is located under ( ./tests).
+
+
+## Extra Credit
+
+No extra credit opportunites were avaiable for this project. 
+
+## Sources used
+
+[Parsing regular expresions with recursive descent] (http://matt.might.net/articles/parsing-regex-with-recursive-descent/)
