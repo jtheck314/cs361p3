@@ -1,0 +1,10 @@
+((aba*|a)|(b*|a*))|ab
+ab
+e
+ba
+b
+aaa
+ab
+abab
+abba
+bbb
