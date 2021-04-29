@@ -53,7 +53,9 @@ public class RE implements REInterface {
 	    }
 	}
 	
-	private NFA term() {...}
+	private NFA term() {
+		//Test to see if vscode is setup correctly 
+	}
 	
 	private NFA factor() {...}
 	
