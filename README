@@ -6,6 +6,8 @@
 
 ## Overview
 
+Given a Regular Expression(RegEx) we had to construct a NFA for the RegEx. There was a helpful tip
+that we should use recursive descent parsing algorithm. 
 
 
 ## Compiling and Using
@@ -22,8 +24,11 @@ $java -cp ".:./CS361FA.jar" re.REDriver ./tests/p3tc1.txt
 
 
 ## Discussion
- 
-
+The Parsing regular expressions with recursive descent was extremely helpful for this project. I(David) had
+to read it twice in order for me to understand how and why they structured things they way they did, Justin 
+on the other hand seem to wrap his head around the article after reading it just once. We would have to say 
+that most difficult part of the project was getting the nfaUnion method to work the way we wanted it to. Once
+that method was written up the rest of the project was not as difficult. 
 
 ## Testing
 
